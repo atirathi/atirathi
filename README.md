@@ -160,6 +160,8 @@ Other      █                                 9.3%
   <img src="https://img.shields.io/badge/Penetration%20Testing-FF0000?style=for-the-badge&logo=appveyor&logoColor=white" alt="penetration testing" />
   <img src="https://img.shields.io/badge/Network%20Security-FF0000?style=for-the-badge&logo=appveyor&logoColor=white" alt="network security" />
   <img src="https://img.shields.io/badge/Offensive%20Security-FF0000?style=for-the-badge&logo=appveyor&logoColor=white" alt="offensive security" />
+  <img src="https://img.shields.io/badge/Python-FF0000?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/Bash-FF0000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" />
 </p>
 
 <p align="center">
