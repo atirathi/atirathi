@@ -1,8 +1,7 @@
-# Prabir Maity `@atirathi`
+# │ atirathi │ अतिरथी
 
 > **Offensive Security Engineer · Red Team Tooling · Full-Stack Exploitation**
-
-Building offensive security frameworks inspired by strategic philosophy from the Mahabharata and Ramayana. Specializing in attack surface intelligence, CTF platform engineering, and custom C2 infrastructure.
+> *Atirathi* — One who stands alone against sixty thousand. The rank above Maharathi. The warrior who needs no army.
 
 ---
 
@@ -152,4 +151,18 @@ Other      █                                 9.3%
 
 ---
 
-*"Sarvanga sees the target's entire existence as a single interconnected organism — web, cloud, code, network, physical, human, and supply chain — and attacks across all dimensions simultaneously."*
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&width=435&lines=atirathi+%E0%A4%85%E0%A4%A4%E0%A4%BF%E0%A4%B0%E0%A4%A5%E0%A5%80;Elite+Warrior;Red+Team+Engineer" alt="atirathi typing animation" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/atirathi-%E0%A4%85%E0%A4%A4%E0%A4%BF%E0%A4%B0%E0%A4%A5%E0%A5%80-FF0000?style=for-the-badge&logo=github&logoColor=white" alt="atirathi badge" />
+  <img src="https://img.shields.io/badge/Red%20Team-FF0000?style=for-the-badge&logo=appveyor&logoColor=white" alt="red team" />
+  <img src="https://img.shields.io/badge/Python-FF0000?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/-Node.js-FF0000?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
+  <img src="https://img.shields.io/badge/-Go-FF0000?style=for-the-badge&logo=go&logoColor=white" alt="go" />
+</p>
+
+<p align="center">
+<strong><span style="color:#FF0000">atirathi</span></strong> · अतिरथी · One who stands alone against sixty thousand
+</p>
