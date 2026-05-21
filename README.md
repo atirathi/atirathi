@@ -1,4 +1,4 @@
-# Prabir Maity `@Prabir009000`
+# Prabir Maity `@atirathi`
 
 > **Offensive Security Engineer · Red Team Tooling · Full-Stack Exploitation**
 
@@ -24,7 +24,7 @@ lateral movement → persistence → exfiltration → OPSEC → deception → AI
 - 14 documentation pillars
 - MITRE ATT&CK mapping across all tactics
 
-**[→ github.com/Prabir009000/Sarvanga](https://github.com/Prabir009000/Sarvanga)**
+**[→ github.com/atirathi/Sarvanga](https://github.com/atirathi/Sarvanga)**
 
 ---
 
@@ -43,7 +43,7 @@ and built-in scoring/anti-cheat.
 - Real-time WebSocket flag submission, Prometheus/Grafana monitoring, Discord bot alerts
 - Hardcoded passphrase backdoor, JWT cracking, prototype pollution, race conditions
 
-**[→ github.com/Prabir009000/Chakravyuh](https://github.com/Prabir009000/Chakravyuh)**
+**[→ github.com/atirathi/Chakravyuh](https://github.com/atirathi/Chakravyuh)**
 
 ---
 
@@ -62,7 +62,7 @@ implant, and web-based operator dashboard.
 - Docker Compose deployment with PostgreSQL backend
 - Modular task framework (shell, upload, download, socks proxy)
 
-**[→ github.com/Prabir009000/C2-Framework](https://github.com/Prabir009000/C2-Framework)**
+**[→ github.com/atirathi/C2-Framework](https://github.com/atirathi/C2-Framework)**
 
 ---
 
@@ -75,7 +75,7 @@ JavaScript · Docker · PostgreSQL
 Vulnerable full-stack recruitment platform for security training and CTF
 scenario hosting.
 
-**[→ github.com/Prabir009000/hirehive-lab](https://github.com/Prabir009000/hirehive-lab)**
+**[→ github.com/atirathi/hirehive-lab](https://github.com/atirathi/hirehive-lab)**
 
 ---
 
@@ -87,7 +87,7 @@ Multi-language security utility arsenal
 
 Curated collection of offensive security tools, scripts, and utilities.
 
-**[→ github.com/Prabir009000/cyber-arsenal](https://github.com/Prabir009000/cyber-arsenal)**
+**[→ github.com/atirathi/cyber-arsenal](https://github.com/atirathi/cyber-arsenal)**
 
 ---
 
