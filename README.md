@@ -6,7 +6,7 @@
 
 ## Portfolio
 
-### 1. सर्वाङ्ग — Sarvanga (Attack Surface Intelligence Engine)
+### 1.  — Sarvanga (Attack Surface Intelligence Engine)
 
 ```
 Python · 12 modules · AI path generation · 6-layer bypass · 0-day pipeline
@@ -26,7 +26,7 @@ lateral movement → persistence → exfiltration → OPSEC → deception → AI
 
 ---
 
-### 2. चक्रव्यूह — Chakravyuh (CTF Challenge Platform)
+### 2.  — Chakravyuh (CTF Challenge Platform)
 
 ```
 JavaScript/Node.js · React 18 · PostgreSQL 16 · Redis 7 · MongoDB 6
@@ -126,10 +126,10 @@ deployment playbooks, and solution guides.
 ## Language Distribution
 
 ```
-Python    ████████████████████████████████  62.3%  (120 KB)
-JavaScript ██████████                      22.1%  (43 KB)
-Go         ██                               3.2%   (5 KB)
-HCL        ██                               3.1%   (5 KB)
+Python    ████████████████████████████████  62.3% (120 KB)
+JavaScript ██████████                      22.1% (43 KB)
+Go         ██                               3.2%  (5 KB)
+HCL        ██                               3.1%  (5 KB)
 Other      █                                 9.3%
 ```
 
